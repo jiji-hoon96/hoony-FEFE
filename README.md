@@ -36,7 +36,7 @@ FE 공부 몰아때려넣기
 
 
 ### 개발관련블로그
-[서다솜님](https://www.daleseo.com
+[서다솜님](https://www.daleseo.com)
 
 
 ### VSCode Extentions
