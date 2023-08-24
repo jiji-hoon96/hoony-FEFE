@@ -1,6 +1,15 @@
 # 나만의 FE 공부장 
 FE 공부 몰아때려넣기
 
+## 배우고싶은 분야들
+
+[react-vite](https://ko.vitejs.dev/guide/)
+[vitest](https://vitest.dev/)
+[zustand](https://github.com/pmndrs/zustand);
+[vanilla-extract](https://vanilla-extract.style/)
+[monorepo](https://monorepo.tools/)
+
+
 
 ## 공부 링크
 
